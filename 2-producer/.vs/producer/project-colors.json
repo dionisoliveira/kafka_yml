@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b9d4635-e433-43f0-aa0f-957671cd0433": {
+      "ProjectGuid": "0b9d4635-e433-43f0-aa0f-957671cd0433",
+      "DisplayName": "producer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
